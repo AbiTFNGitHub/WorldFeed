@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami
 http://206.212.244.47:8080/5Xchzg/411017/56410
-#EXTINF:-1 tvg-id="TVP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP 1
+#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP 1
 http://93.113.203.191/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7292/index.m3u8
