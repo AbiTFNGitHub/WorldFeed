@@ -3,3 +3,7 @@
 http://206.212.244.47:8080/5Xchzg/411017/56410
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP 1
 http://93.113.203.191/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7292/index.m3u8
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1280px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
+http://206.212.244.47:8080/DRIPTV0021/TDi6gVVnTs/47281
+#EXTINF:-1 tvg-id="FOX35ORLANDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fts-orlando-a.svg/1280px-Fts-orlando-a.svg.png" group-title="",FOX 35 ORLANDO
+http://51.81.106.100:25461/Jeff_talboys/43743068/215887
