@@ -33,6 +33,14 @@ http://93.113.203.191/iptv/3K5Z3VE8M7N89U/7292/index.m3u8
 http://93.113.203.191/iptv/S8VNGCFUZYYPDT/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 6)
 http://93.113.203.191/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/7292/index.m3u8
+#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 7)
+http://93.113.203.191/iptv/AVNFCNQBEC9VQU/7292/index.m3u8
+#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 8)
+http://93.113.203.191/iptv/DE5MNN2TXL9QG7/7292/index.m3u8
+#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 9)
+http://93.113.203.191/iptv/KVYY3LCALLTXGT/7292/index.m3u8
+#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 10)
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/7292/index.m3u8
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1280px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
 http://206.212.244.47:8080/50473879/50473879/47281
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1280px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS (Opción 2)
