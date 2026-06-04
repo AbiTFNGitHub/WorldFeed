@@ -45,6 +45,8 @@ http://93.113.203.191/iptv/KVYY3LCALLTXGT/7292/index.m3u8
 http://93.113.203.191/iptv/2VLF3G39GK7LBH/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 11)
 http://93.113.203.191/iptv/T6XNCP6L7LLKPD/7292/index.m3u8
+#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 12)
+http://93.113.203.191/iptv/HBHPK9FK755LG3/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/7293/index.m3u8
 #EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 2)
@@ -67,6 +69,8 @@ http://93.113.203.191/iptv/KVYY3LCALLTXGT/7293/index.m3u8
 http://93.113.203.191/iptv/2VLF3G39GK7LBH/7293/index.m3u8
 #EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 11)
 http://93.113.203.191/iptv/T6XNCP6L7LLKPD/7293/index.m3u8
+#EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 12)
+http://93.113.203.191/iptv/HBHPK9FK755LG3/7293/index.m3u8
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
 http://206.212.244.47:8080/50473879/50473879/47281
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS (Opción 2)
