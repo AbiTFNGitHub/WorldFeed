@@ -9,6 +9,8 @@ http://195.245.215.100/276/hls/7d6cd0c7b9b07175b951c0f5686affe3/162/stream.m3u8
 http://195.245.215.100/276/hls/7d6cd0c7b9b07175b951c0f5686affe3/4856/stream.m3u8
 #EXTINF:-1 tvg-id="СУСПІЛЬНЕ КУЛЬТУРА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/1280px-Suspilne_Kultura_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ КУЛЬТУРА
 http://195.245.215.100/276/hls/7d6cd0c7b9b07175b951c0f5686affe3/117/stream.m3u8
+#EXTINF:-1 tvg-id="1+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/1280px-1%2B1_logo.svg.png" group-title="",1+1
+http://93.113.203.191/iptv/BBA3SWNU4N3KQH/987/index.m3u8
 #EXTINF:-1 tvg-id="2+2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1280px-2%2B2_logo_2017.svg.png" group-title="",2+2
 http://217.154.10.99:2020/channel/6db8a0af/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 tvg-id="HTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/1280px-NTNUA_logo_%282013%29.svg.png" group-title="",HTH
