@@ -15,7 +15,7 @@ http://93.113.203.191/iptv/BBA3SWNU4N3KQH/987/index.m3u8
 http://217.154.10.99:2020/channel/6db8a0af/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 tvg-id="HTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/1280px-NTNUA_logo_%282013%29.svg.png" group-title="",HTH
 http://87.98.157.77/stream/83K27DP6PU/326.m3u8
-#EXTINF:-1 tvg-id="NTVUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Novyi_kanal.svg/1280px-Novyi_kanal.svg.png" group-title="",Новий Канал
+#EXTINF:-1 tvg-id="NOVYKANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Novyi_kanal.svg/1280px-Novyi_kanal.svg.png" group-title="",НОВИЙ КАНАЛ
 http://93.113.203.191/iptv/W82B6MN5X9KLUG/15128/index.m3u8
 #EXTINF:-1 tvg-id="M1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M1_%28Ukraine%29_%282001-2021%29.svg/1280px-M1_%28Ukraine%29_%282001-2021%29.svg.png" group-title="",M1
 http://87.98.157.77/stream/83K27DP6PU/218.m3u8
