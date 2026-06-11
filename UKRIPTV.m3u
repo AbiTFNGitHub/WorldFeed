@@ -31,6 +31,8 @@ http://194.44.175.62/news24/livenews.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="МТМЗапоріжжя" tvg-logo="https://storage.googleapis.com/svoi-upload/442/360076/72e18bfa-9ed1-4419-8502-b364be43545d.png" group-title="",МТМ Запоріжжя
 http://91.214.31.214/hls/live.m3u8
+#EXTINF:-1 tvg-id="TET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/1280px-TET_logo.svg.png" group-title="",TET
+http://87.98.157.77/stream/83K27DP6PU/338.m3u8
 #EXTINF:-1 tvg-id="TVAЧернівці" tvg-logo="https://tva.ua/wp-content/uploads/2022/03/tva_logo_03.jpg" group-title="",TVA Чернівці
 http://213.133.172.195/tva.ua_live/livestream/chunklist_.m3u8
 #EXTINF:-1 tvg-id="DniproTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE_TV.png" group-title="",DNIPROTV
