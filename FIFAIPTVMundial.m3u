@@ -75,3 +75,15 @@ http://206.212.244.47:8080/50473879/50473879/47281
 http://51.81.106.100:25461/sjzumbro7/7407045283/10397
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWSINT
 http://93.113.203.191/iptv/KVYY3LCALLTXGT/31915/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBSAS" tvg-logo="" group-title="",TVBSAS
+http://172.110.221.91:8080/205572520A/jarAuIls4m/122387
+#EXTINF:-1 tvg-id="" tvg-name="TLMDUSA" tvg-logo="" group-title="",TLMDUSA
+http://172.110.221.91:8080/205572520A/jarAuIls4m/115176
+#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="" group-title="",TLMDMIA
+http://51.161.116.222:2096/JimboFree/8506194732/760622 
+#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="" group-title="",TLMDMIA
+http://51.161.116.222:2096/Johnmills/3549807216/760622
+#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="" group-title="",TLMDNYC
+http://51.161.116.222:2096/JimboFree/8506194732/760621
+#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="" group-title="",TLMDNYC
+http://51.161.116.222:2096/Johnmills/3549807216/760621
