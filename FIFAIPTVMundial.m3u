@@ -85,17 +85,13 @@ http://51.81.106.100:25461/sjzumbro7/7407045283/10397
 http://93.113.203.191/iptv/KVYY3LCALLTXGT/31915/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBSAS" tvg-logo="" group-title="",TVBSAS
 http://172.110.221.91:8080/205572520A/jarAuIls4m/122387
-#EXTINF:-1 tvg-id="" tvg-name="TLMDUSA" tvg-logo="" group-title="",TLMDUSA
+#EXTINF:-1 tvg-id="" tvg-name="TLMDUSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="",TLMDUSA
 http://172.110.221.91:8080/205572520A/jarAuIls4m/115176
-#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="" group-title="",TLMDMIA
+#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",TLMDMIA
 http://51.161.116.222:2096/JimboFree/8506194732/760622 
-#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="" group-title="",TLMDMIA
+#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",TLMDMIA
 http://51.161.116.222:2096/Johnmills/3549807216/760622
-#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="" group-title="",TLMDNYC
+#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telemundo_47_%282018%29.svg/960px-Telemundo_47_%282018%29.svg.png" group-title="",TLMDNYC
 http://51.161.116.222:2096/JimboFree/8506194732/760621
-#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="" group-title="",TLMDNYC
+#EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telemundo_47_%282018%29.svg/960px-Telemundo_47_%282018%29.svg.png" group-title="",TLMDNYC
 http://51.161.116.222:2096/Johnmills/3549807216/760621
-#EXTINF:-1 tvg-id="RENTV" tvg-name="RENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1920px-REN_TV_logo_2017.svg.png" group-title="",RenTV(RUS)
-http://93.113.203.191/iptv/DE5MNN2TXL9QG7/9002/index.m3u8
-#EXTINF:-1 tvg-id="MCK24" tvg-name="MCK24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/M24_Square.png" group-title="",Moscú24(RUS)
-http://93.113.203.191/iptv/DE5MNN2TXL9QG7/9218/index.m3u8
