@@ -95,3 +95,7 @@ http://51.161.116.222:2096/Johnmills/3549807216/760622
 http://51.161.116.222:2096/JimboFree/8506194732/760621
 #EXTINF:-1 tvg-id="" tvg-name="TLMDMIA" tvg-logo="" group-title="",TLMDNYC
 http://51.161.116.222:2096/Johnmills/3549807216/760621
+#EXTINF:-1 tvg-id="RENTV" tvg-name="RENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1920px-REN_TV_logo_2017.svg.png" group-title="",RenTV(RUS)
+http://93.113.203.191/iptv/DE5MNN2TXL9QG7/9002/index.m3u8
+#EXTINF:-1 tvg-id="MCK24" tvg-name="MCK24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/M24_Square.png" group-title="",Moscú24(RUS)
+http://93.113.203.191/iptv/DE5MNN2TXL9QG7/9218/index.m3u8
