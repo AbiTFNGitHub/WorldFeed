@@ -63,3 +63,7 @@ http://206.212.244.47:8080/50473879/50473879/47281
 http://51.81.106.100:25461/sjzumbro7/7407045283/10397
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWSINT (Opción TOP)
 http://93.113.203.191/iptv/KVYY3LCALLTXGT/31915/index.m3u8
+#EXTINF:-1 tvg-id="TVCABSAS" tvg-logo="https://pbs.twimg.com/profile_images/2064772413812785152/lmjUDjRn_400x400.jpg" group-title="",TVCABSAS
+http://172.110.221.91:8080/Will/sSGuUSCQeK/135536
+#EXTINF:-1 tvg-id="CARATVBOG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png" group-title="",CARATVBOG
+http://172.110.221.91:8080/Will/sSGuUSCQeK/135811
