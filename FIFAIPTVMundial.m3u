@@ -5,6 +5,8 @@ http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/7292/index.m3u8
 http://93.113.203.191/iptv/8KSD5KFDXA6H88/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 3)
 http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/7292/index.m3u8
+#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción.4)
+http://45.148.146.225/live/oguzkula/nyk22v197/df87fb6b-aa69-4b44-82f4-b26c950f7f27.m3u
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 5)
 http://93.113.203.191/iptv/S8VNGCFUZYYPDT/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 6)
@@ -61,9 +63,7 @@ http://206.212.244.47:8080/8326413108/jsmitty40@att.net/56410
 http://206.212.244.47:8080/50473879/50473879/47281
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS (Opción 2)
 http://51.81.106.100:25461/sjzumbro7/7407045283/10397
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS (Opción.3)
+http://45.148.146.225/live/oguzkula/nyk22v197/2d196b56-75ec-40bd-b013-5fa8c437dc85.m3u
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWSINT (Opción TOP)
 http://93.113.203.191/iptv/KVYY3LCALLTXGT/31915/index.m3u8
-#EXTINF:-1 tvg-id="TVCABSAS" tvg-logo="https://pbs.twimg.com/profile_images/2064772413812785152/lmjUDjRn_400x400.jpg" group-title="",TVCABSAS
-http://172.110.221.91:8080/Will/sSGuUSCQeK/135536
-#EXTINF:-1 tvg-id="CARATVBOG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png" group-title="",CARATVBOG
-http://172.110.221.91:8080/Will/sSGuUSCQeK/135811
