@@ -46,4 +46,4 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="OKE" tvg-logo="" group-title="",OKE
 http://87.98.157.77/stream/83K27DP6PU/329.m3u8
 #EXTINF:-1 tvg-id="UEMUSIC" tvg-logo="" group-title="",UEMUSIC
-https://stream.mcquack.net/261/index.m3u8
+http://stream.mcquack.net/261/index.m3u8
