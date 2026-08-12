@@ -1,61 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 1)
-http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 3)
-http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 5)
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 6)
-http://93.113.203.191/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 7)
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 9)
-http://93.113.203.191/iptv/KVYY3LCALLTXGT/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 10)
-http://93.113.203.191/iptv/2VLF3G39GK7LBH/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD (Opción 12)
-http://93.113.203.191/iptv/HBHPK9FK755LG3/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 1)
-http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/7293/index.m3u8
-#EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 3)
-http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/7293/index.m3u8
-#EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 5)
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/7293/index.m3u8
-#EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 6)
-http://93.113.203.191/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/7293/index.m3u8
-#EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 7)
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/7293/index.m3u8
-#EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 9)
-http://93.113.203.191/iptv/KVYY3LCALLTXGT/7293/index.m3u8
-#EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 10)
-http://93.113.203.191/iptv/2VLF3G39GK7LBH/7293/index.m3u8
-#EXTINF:-1 tvg-id="TVP2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1280px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" group-title="",TVP2HD (Opción 12) 9002
-http://93.113.203.191/iptv/HBHPK9FK755LG3/7293/index.m3u8
 #EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 1)
-http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 2)
-http://206.212.244.47:8080/DRIPTV0021/TDi6gVVnTs/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 3)
-http://206.212.244.47:8080/50473879/50473879/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 4)
-http://206.212.244.47:8080/sales@dellerstechshop.ca/sales@4889/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 5)
-http://206.212.244.47:8080/1yNyea/123956/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 6)
-http://206.212.244.47:8080/fenesse01@yahoo.com/hREE85bquW/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 7)
 http://206.212.244.47:8080/garypeters280@gmail.com/garypeters280@2024/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 8)
-http://206.212.244.47:8080/l.jr.mahabir@/204@210/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 9)
-http://206.212.244.47:8080/4842428407/Kayla4545/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 10)
-http://206.212.244.47:8080/akintunda/johnson@1323/56410
-#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 11)
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 2)
+http://206.212.244.47:8080/wcroach@xplayconsulting.com/wcroach@2024/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 3)
+http://206.212.244.47:8080/sales@dellerstechshop.ca/sales@4889/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 4)
+http://206.212.244.47:8080/mike84z28@yahoo.com/ayP22z83sD/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 5)
+http://206.212.244.47:8080/kfyVHRhkx5/v588y9hszyvHz6tgs/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 6)
 http://206.212.244.47:8080/8326413108/jsmitty40@att.net/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 7)
+http://206.212.244.47:8080/lv.chavannes@yahoo/DMAWNsGs9/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 8)
+http://206.212.244.47:8080/2rH3jmrKqa/S7Fkvn54gM/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 9)
+http://206.212.244.47:8080/DRIPTV0021/TDi6gVVnTs/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 10)
+http://206.212.244.47:8080/50473879/50473879/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 11)
+http://206.212.244.47:8080/57871933/35557395/56410
+#EXTINF:-1 tvg-id="TLMD51MIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",Telemundo 51 Miami (Opción 12)
+http://206.212.244.47:8080/meWDR3/510791/56410
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS (Opción 1)
-http://206.212.244.47:8080/50473879/50473879/47281
+http://206.212.244.47:8080/1yNyea/123956/56410
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS (Opción 2)
-http://51.81.106.100:25461/sjzumbro7/7407045283/10397
+http://51.81.106.100:25461/vRv3YsT50Q/mw7PKDkB8C/10397
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWSINT (Opción TOP)
-http://93.113.203.191/iptv/KVYY3LCALLTXGT/31915/index.m3u8
+http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/31915/index.m3u8
