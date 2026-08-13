@@ -33,3 +33,9 @@ http://206.212.244.47:8080/garypeters280@gmail.com/garypeters280@2024/47281
 http://51.81.106.100:25461/StefanieZiegler/fk36v5d222/10397
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
 http://51.81.106.100:25461/StefanieZiegler/fk36v5d222/31182
+#EXTINF:-1 tvg-id="RENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/500px-REN_TV_logo_2017.svg.png" group-title="",RENTV
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/9002/index.m3u8
+#EXTINF:-1 tvg-id="NTVMIR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NTV_MIR.svg/1280px-NTV_MIR.svg.png" group-title="",NTVMIR
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/14035/index.m3u8
+#EXTINF:-1 tvg-id="MUZTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NTV_MIR.svg/1280px-NTV_MIR.svg.png" group-title="",MUZTV
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/6036/index.m3u8
