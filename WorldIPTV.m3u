@@ -70,7 +70,7 @@ http://217.154.10.99:2020/channel/5e9e210f/index.m3u8?q=618051a4e8fb85be64d971b1
 #EXTINF:-1 tvg-id="ПЕРШИЙ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pershyi_%282022%29.svg/1280px-Pershyi_%282022%29.svg.png" group-title="",ПЕРШИЙ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="СУСПІЛЬНЕ КИЇВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/1280px-Suspilne_Kyiv_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ КИЇВ
-https://tva.in.ua/live/susp-sport.m3u8
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/31745/index.m3u8
 #EXTINF:-1 tvg-id="СУСПІЛЬНЕ СПОРТ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suspilne_Sport_%282022%29.svg/1280px-Suspilne_Sport_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ СПОРТ
 http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1 tvg-id="СУСПІЛЬНЕ КУЛЬТУРА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/1280px-Suspilne_Kultura_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ КУЛЬТУРА
@@ -127,7 +127,7 @@ http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19186/index.m3u8
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19188/index.m3u8
 #EXTINF:-1 tvg-id="RENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/500px-REN_TV_logo_2017.svg.png" group-title="",RENTV
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/9002/index.m3u8
-#EXTINF:-1 tvg-id="NTVMIR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NTV_MIR.svg/1280px-NTV_MIR.svg.png" group-title="",NTVMIR
-http://217.154.10.99:2020/channel/n7b2d43bb/index.m3u8?q=618051a4e8fb85be64d971b12222208c
+#EXTINF:-1 tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NTV_MIR.svg/1280px-NTV_MIR.svg.png" group-title="",NTV
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/9028/index.m3u8
 #EXTINF:-1 tvg-id="MUZTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2021.svg/960px-%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2021.svg.png" group-title="",MUZTV
 http://217.154.10.99:2020/channel/n34c4c778/index.m3u8?q=618051a4e8fb85be64d971b12222208c
