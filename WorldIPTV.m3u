@@ -96,6 +96,6 @@ http://93.113.203.191/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/19188/index.m3u8
 #EXTINF:-1 tvg-id="RENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/500px-REN_TV_logo_2017.svg.png" group-title="",RENTV
 http://93.113.203.191/iptv/2VLF3G39GK7LBH/9002/index.m3u8
 #EXTINF:-1 tvg-id="NTVMIR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NTV_MIR.svg/1280px-NTV_MIR.svg.png" group-title="",NTVMIR
-http://93.113.203.191/iptv/2VLF3G39GK7LBH/14035/index.m3u8
+http://217.154.10.99:2020/channel/n7b2d43bb/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 tvg-id="MUZTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2021.svg/960px-%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2021.svg.png" group-title="",MUZTV
 http://93.113.203.191/iptv/2VLF3G39GK7LBH/6036/index.m3u8
