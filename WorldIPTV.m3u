@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+LIGA
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/31853/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+CHAMPIONS
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/31842/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+CHAMPIONS2
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/31860/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/6098/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT2
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/6099/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+DEPORTES
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/31830/index.m3u8
 #EXTINF:-1 tvg-id="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",TLMDMIA
 http://206.212.244.47:8080/garypeters280@gmail.com/garypeters280@2024/56410
 #EXTINF:-1 tvg-id="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",TLMDMIA
@@ -125,3 +137,5 @@ http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19185/index.m3u8
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19186/index.m3u8
 #EXTINF:-1 tvg-id="itv4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/330px-ITV4_logo_%282022%29.svg.png" group-title="",itv4
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19188/index.m3u8
+#EXTINF:-1 tvg-id="RENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/500px-REN_TV_logo_2017.svg.png" group-title="",RENTV
+http://93.113.203.191/iptv/AVNFCNQBEC9VQU/9002/index.m3u8
