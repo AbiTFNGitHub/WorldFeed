@@ -37,6 +37,8 @@ http://206.212.244.47:8080/57871933/35557395/56410
 http://206.212.244.47:8080/meWDR3/510791/56410
 #EXTINF:-1 tvg-id="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",TLMDMIA
 http://206.212.244.47:8080/1yNyea/123956/56410
+#EXTINF:-1 tvg-id="RCN(BOG|COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png" group-title="",RCN(BOG|COL)
+http://67.220.71.35:8880/Leo_bello/JmFTxpBufxev/318384
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
