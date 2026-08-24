@@ -84,7 +84,7 @@ http://217.154.10.99:2020/channel/5e9e210f/index.m3u8?q=618051a4e8fb85be64d971b1
 #EXTINF:-1 tvg-id="ПЕРШИЙ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pershyi_%282022%29.svg/1280px-Pershyi_%282022%29.svg.png" group-title="",ПЕРШИЙ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="СУСПІЛЬНЕ КИЇВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/1280px-Suspilne_Kyiv_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ КИЇВ
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/31745/index.m3u8
+http://stream.mcquack.net/439/index.m3u8
 #EXTINF:-1 tvg-id="СУСПІЛЬНЕ СПОРТ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suspilne_Sport_%282022%29.svg/1280px-Suspilne_Sport_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ СПОРТ
 http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1 tvg-id="СУСПІЛЬНЕ КУЛЬТУРА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/1280px-Suspilne_Kultura_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ КУЛЬТУРА
