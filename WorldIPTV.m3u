@@ -132,7 +132,7 @@ http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19176/index.m3u8
 #EXTINF:-1 tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/330px-BBC_Two_logo_2021.svg.png" group-title="",BBC2
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19177/index.m3u8
 #EXTINF:-1 tvg-id="BBCNEWSEUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BBC_News_2022_%28Alt_2%29.svg/330px-BBC_News_2022_%28Alt_2%29.svg.png" group-title="",BBCNEWSEUR
-http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/545/index.m3u8
+http://217.154.10.99:2020/channel/3f536ea/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 tvg-id="itv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ITV1_Logo_2022.svg/330px-ITV1_Logo_2022.svg.png" group-title="",itv1
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19185/index.m3u8
 #EXTINF:-1 tvg-id="itv2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ITV2_logo_2022.svg/330px-ITV2_logo_2022.svg.png" group-title="",itv2
