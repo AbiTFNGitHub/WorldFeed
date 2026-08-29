@@ -139,5 +139,3 @@ http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19185/index.m3u8
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19186/index.m3u8
 #EXTINF:-1 tvg-id="itv4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/330px-ITV4_logo_%282022%29.svg.png" group-title="",itv4
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/19188/index.m3u8
-#EXTINF:-1 tvg-id="RENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/500px-REN_TV_logo_2017.svg.png" group-title="",RENTV
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/9002/index.m3u8
