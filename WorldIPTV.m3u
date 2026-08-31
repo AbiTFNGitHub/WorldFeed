@@ -106,11 +106,11 @@ http://87.98.157.77/stream/83K27DP6PU/270.m3u8
 #EXTINF:-1 tvg-id="МИ+УКРАЇНА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg/1280px-%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg.png" group-title="",МИ+УКРАЇНА
 http://195.245.215.100/276/hls/7d6cd0c7b9b07175b951c0f5686affe3/4885/stream.m3u8
 #EXTINF:-1 tvg-id="ЕСПРЕСО" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Espreso_TV_%282023%29.svg/1280px-Espreso_TV_%282023%29.svg.png" group-title="",ЕСПРЕСО
-https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/9073/index.m3u8
 #EXTINF:-1 tvg-id="24KANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/1280px-24_Kanal_logo.svg.png" group-title="",24KANAL
 http://194.44.175.62/news24/livenews.m3u8
 #EXTINF:-1 tvg-id="KYIV24NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kyiv_TV_%282023%29.svg/1280px-Kyiv_TV_%282023%29.svg.png" group-title="",KYIV24NEWS
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+http://93.113.203.191/iptv/S8VNGCFUZYYPDT/31781/index.m3u8
 #EXTINF:-1 tvg-id="МТМЗапоріжжя" tvg-logo="https://storage.googleapis.com/svoi-upload/442/360076/72e18bfa-9ed1-4419-8502-b364be43545d.png" group-title="",МТМ Запоріжжя
 http://91.214.31.214/hls/live.m3u8
 #EXTINF:-1 tvg-id="TET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/1280px-TET_logo.svg.png" group-title="",TET
