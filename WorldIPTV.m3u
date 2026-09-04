@@ -110,7 +110,7 @@ http://93.113.203.191/iptv/S8VNGCFUZYYPDT/9073/index.m3u8
 #EXTINF:-1 tvg-id="24KANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/1280px-24_Kanal_logo.svg.png" group-title="",24KANAL
 http://194.44.175.62/news24/livenews.m3u8
 #EXTINF:-1 tvg-id="KYIV24NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kyiv_TV_%282023%29.svg/1280px-Kyiv_TV_%282023%29.svg.png" group-title="",KYIV24NEWS
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/31781/index.m3u8
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/31781/index.m3u8
 #EXTINF:-1 tvg-id="МТМЗапоріжжя" tvg-logo="https://storage.googleapis.com/svoi-upload/442/360076/72e18bfa-9ed1-4419-8502-b364be43545d.png" group-title="",МТМ Запоріжжя
 http://91.214.31.214/hls/live.m3u8
 #EXTINF:-1 tvg-id="TET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/1280px-TET_logo.svg.png" group-title="",TET
@@ -128,18 +128,18 @@ http://87.98.157.77/stream/83K27DP6PU/329.m3u8
 #EXTINF:-1 tvg-id="UEMUSIC" tvg-logo="" group-title="",UEMUSIC
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 tvg-id="TVRAIN.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tvrain-slashes.svg/960px-Tvrain-slashes.svg.png" group-title="",TVRAIN.TV
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/20083/index.m3u8
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/20083/index.m3u8
 #EXTINF:-1 tvg-id="BBC1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/330px-BBC_One_logo_2021.svg.png" group-title="",BBC1
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/19176/index.m3u8
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/19176/index.m3u8
 #EXTINF:-1 tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/330px-BBC_Two_logo_2021.svg.png" group-title="",BBC2
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/19177/index.m3u8
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/19177/index.m3u8
 #EXTINF:-1 tvg-id="BBCNEWSEUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BBC_News_2022_%28Alt_2%29.svg/330px-BBC_News_2022_%28Alt_2%29.svg.png" group-title="",BBCNEWSEUR
 http://217.154.10.99:2020/channel/3f536ea/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 tvg-id="itv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ITV1_Logo_2022.svg/330px-ITV1_Logo_2022.svg.png" group-title="",itv1
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/19185/index.m3u8
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/19185/index.m3u8
 #EXTINF:-1 tvg-id="itv2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ITV2_logo_2022.svg/330px-ITV2_logo_2022.svg.png" group-title="",itv2
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/19186/index.m3u8
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/19186/index.m3u8
 #EXTINF:-1 tvg-id="itv4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/330px-ITV4_logo_%282022%29.svg.png" group-title="",itv4
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/19188/index.m3u8
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/19188/index.m3u8
 #EXTINF:-1 tvg-id="RENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1920px-REN_TV_logo_2017.svg.png" group-title="",RENTV
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/9002/index.m3u8
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/9002/index.m3u8
