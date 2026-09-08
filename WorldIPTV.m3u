@@ -42,13 +42,13 @@ http://67.220.71.35:8880/Leo_bello/JmFTxpBufxev/318384
 #EXTINF:-1 tvg-id="CANAL I" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Canal_i_logo_2026.png" group-title="",CANAL I (CCS|VEN)
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-id="TELEVEN" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/960px-Televen_%282024%29.svg.png" group-title="",TELEVEN
-http://181.78.8.199:8000/play/a09j/index.m3u8
+http://radioabukakax3.com
 #EXTINF:-1 tvg-id="TELEARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TeleAragua_Logo.png" group-title="",TELEARAGUA
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 #EXTINF:-1 tvg-id="TELETUYA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tele_Tuya_Logo_%282026%29.png" group-title="",TELETUYA
-http://181.78.8.199:8000/play/a0fs/index.m3u8
+http://radioabukakax3.com
 #EXTINF:-1 tvg-id="MeridianoTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Meridiano_Televisi%C3%B3n.png/960px-Meridiano_Televisi%C3%B3n.png" group-title="",MeridianoTV
-http://181.78.8.199:8000/play/a0fr/index.m3u8 
+http://radioabukakax3.com
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
