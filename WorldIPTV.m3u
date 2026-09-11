@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+LIGA
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/31853/index.m3u8
-#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+CHAMPIONS
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/31842/index.m3u8
-#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+CHAMPIONS2
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/31860/index.m3u8
-#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/6098/index.m3u8
-#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT2
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/6099/index.m3u8
-#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+DEPORTES
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/31830/index.m3u8
-#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",F1TV
-http://31.42.187.187:8080/PVI7bELTYG/8uxQvWtDCS/13960
 #EXTINF:-1 tvg-id="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",TLMDMIA
 http://206.212.244.47:8080/garypeters280@gmail.com/garypeters280@2024/56410
 #EXTINF:-1 tvg-id="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",TLMDMIA
@@ -41,8 +27,6 @@ http://206.212.244.47:8080/meWDR3/510791/56410
 http://206.212.244.47:8080/1yNyea/123956/56410
 #EXTINF:-1 tvg-id="RCN(BOG|COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png" group-title="",RCN(BOG|COL)
 http://67.220.71.35:8880/Leo_bello/JmFTxpBufxev/318384
-#EXTINF:-1 tvg-id="CANAL I" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Canal_i_logo_2026.png" group-title="",CANAL I (CCS|VEN)
-https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
@@ -83,58 +67,8 @@ http://206.212.244.47:8080/garypeters280@gmail.com/garypeters280@2024/47281
 http://51.81.106.100:25461/StefanieZiegler/fk36v5d222/10397
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
 http://51.81.106.100:25461/StefanieZiegler/fk36v5d222/31182
-#EXTINF:-1 tvg-id="МАРАФОН" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/1%2B1_%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD_%282024%29.svg/1280px-1%2B1_%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD_%282024%29.svg.png" group-title="",МАРАФОН
-http://217.154.10.99:2020/channel/5e9e210f/index.m3u8?q=618051a4e8fb85be64d971b12222208c
-#EXTINF:-1 tvg-id="ПЕРШИЙ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pershyi_%282022%29.svg/1280px-Pershyi_%282022%29.svg.png" group-title="",ПЕРШИЙ
-https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 tvg-id="СУСПІЛЬНЕ КИЇВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/1280px-Suspilne_Kyiv_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ КИЇВ
-http://stream.mcquack.net/439/index.m3u8
-#EXTINF:-1 tvg-id="СУСПІЛЬНЕ СПОРТ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suspilne_Sport_%282022%29.svg/1280px-Suspilne_Sport_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ СПОРТ
-http://stream.mcquack.net/444/index.m3u8
-#EXTINF:-1 tvg-id="СУСПІЛЬНЕ КУЛЬТУРА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/1280px-Suspilne_Kultura_%282022%29.svg.png" group-title="",СУСПІЛЬНЕ КУЛЬТУРА
-http://stream.mcquack.net/435/index.m3u8
-#EXTINF:-1 tvg-id="1+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/1280px-1%2B1_logo.svg.png" group-title="",1+1
-http://stream.mcquack.net/219/index.m3u8
-#EXTINF:-1 tvg-id="2+2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1280px-2%2B2_logo_2017.svg.png" group-title="",2+2
-http://217.154.10.99:2020/channel/6db8a0af/index.m3u8?q=618051a4e8fb85be64d971b12222208c
-#EXTINF:-1 tvg-id="HTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/1280px-NTNUA_logo_%282013%29.svg.png" group-title="",HTH
-http://87.98.157.77/stream/83K27DP6PU/326.m3u8
-#EXTINF:-1 tvg-id="NOVYKANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Novyi_kanal.svg/1280px-Novyi_kanal.svg.png" group-title="",НОВИЙ КАНАЛ
-http://87.98.157.77/stream/83K27DP6PU/157.m3u8
-#EXTINF:-1 tvg-id="M1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M1_%28Ukraine%29_%282001-2021%29.svg/1280px-M1_%28Ukraine%29_%282001-2021%29.svg.png" group-title="",M1
-http://87.98.157.77/stream/83K27DP6PU/218.m3u8
-#EXTINF:-1 tvg-id="M2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/M2_2022Logo.svg/1280px-M2_2022Logo.svg.png" group-title="",M2
-http://87.98.157.77/stream/83K27DP6PU/330.m3u8
-#EXTINF:-1 tvg-id="K1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/K1_Logo_2014.svg/960px-K1_Logo_2014.svg.png" group-title="",K1
-http://87.98.157.77/stream/83K27DP6PU/270.m3u8
-#EXTINF:-1 tvg-id="МИ+УКРАЇНА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg/1280px-%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg.png" group-title="",МИ+УКРАЇНА
-http://195.245.215.100/276/hls/7d6cd0c7b9b07175b951c0f5686affe3/4885/stream.m3u8
-#EXTINF:-1 tvg-id="ЕСПРЕСО" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Espreso_TV_%282023%29.svg/1280px-Espreso_TV_%282023%29.svg.png" group-title="",ЕСПРЕСО
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/9073/index.m3u8
-#EXTINF:-1 tvg-id="24KANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/1280px-24_Kanal_logo.svg.png" group-title="",24KANAL
-http://194.44.175.62/news24/livenews.m3u8
-#EXTINF:-1 tvg-id="KYIV24NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kyiv_TV_%282023%29.svg/1280px-Kyiv_TV_%282023%29.svg.png" group-title="",KYIV24NEWS
-http://93.113.203.191/iptv/2VLF3G39GK7LBH/31781/index.m3u8
-#EXTINF:-1 tvg-id="МТМЗапоріжжя" tvg-logo="https://storage.googleapis.com/svoi-upload/442/360076/72e18bfa-9ed1-4419-8502-b364be43545d.png" group-title="",МТМ Запоріжжя
-http://91.214.31.214/hls/live.m3u8
-#EXTINF:-1 tvg-id="TET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/1280px-TET_logo.svg.png" group-title="",TET
-http://87.98.157.77/stream/83K27DP6PU/338.m3u8
-#EXTINF:-1 tvg-id="TVAЧернівці" tvg-logo="https://tva.ua/wp-content/uploads/2022/03/tva_logo_03.jpg" group-title="",TVA Чернівці
-http://213.133.172.195/tva.ua_live/livestream/chunklist_.m3u8
-#EXTINF:-1 tvg-id="DniproTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE_TV.png" group-title="",DNIPROTV
-http://194.150.107.21:1935/out/dtv/playlist.m3u8
-#EXTINF:-1 tvg-id="1TVODUA" tvg-logo="https://legeartisvocal.com.ua/wp-content/uploads/2016/01/1tv.jpg" group-title="",ПЕРШИЙ МІСЬКИЙ Odesa
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="АРМІЯТV" tvg-logo="https://images.seeklogo.com/logo-png/51/1/army-tv-logo-png_seeklogo-519828.png" group-title="",АРМІЯТV
-https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 tvg-id="OKE" tvg-logo="" group-title="",OKE
-http://87.98.157.77/stream/83K27DP6PU/329.m3u8
-#EXTINF:-1 tvg-id="UEMUSIC" tvg-logo="" group-title="",UEMUSIC
-http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 tvg-id="TVRAIN.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tvrain-slashes.svg/960px-Tvrain-slashes.svg.png" group-title="",TVRAIN.TV
 http://93.113.203.191/iptv/2VLF3G39GK7LBH/20083/index.m3u8
-#EXTINF:-1 tvg-id="BBC1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="",BBC1
-http://192.142.25.117/TV-20863859894612/212220822298/199758
 #EXTINF:-1 tvg-id="BBCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BBC_News_2022_%28Alt_2%29.svg/330px-BBC_News_2022_%28Alt_2%29.svg.png" group-title="",BBCNEWS
 http://192.142.25.117/TV-20863859894612/212220822298/200368
 #EXTINF:-1 tvg-id="itv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ITV1_Logo_2022.svg/330px-ITV1_Logo_2022.svg.png" group-title="",itv1
