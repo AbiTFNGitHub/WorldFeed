@@ -135,6 +135,10 @@ http://93.113.203.191/iptv/2VLF3G39GK7LBH/20083/index.m3u8
 http://192.142.25.117/TV-20863859894612/212220822298/199758
 #EXTINF:-1 tvg-id="BBCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BBC_News_2022_%28Alt_2%29.svg/330px-BBC_News_2022_%28Alt_2%29.svg.png" group-title="",BBCNEWS
 http://192.142.25.117/TV-20863859894612/212220822298/200368
+#EXTINF:-1 tvg-id="sky" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/960px-Sky_News_logo.svg.png" group-title="",skynews.uk
+http://192.142.25.117/TV-20863859894612/212220822298/200365
+#EXTINF:-1 tvg-id="sky" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sky_TG24_-_Logo_2021.svg/960px-Sky_TG24_-_Logo_2021.svg.png" group-title="",skytg24.it
+http://31.42.187.187:8080/PVI7bELTYG/8uxQvWtDCS/5197
 #EXTINF:-1 tvg-id="itv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ITV1_Logo_2022.svg/330px-ITV1_Logo_2022.svg.png" group-title="",itv1
 http://93.113.203.191/iptv/2VLF3G39GK7LBH/19185/index.m3u8
 #EXTINF:-1 tvg-id="RENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1920px-REN_TV_logo_2017.svg.png" group-title="",RENTV
