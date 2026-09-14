@@ -55,3 +55,5 @@ http://87.98.157.77/stream/83K27DP6PU/329.m3u8
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",ПЕРШИЙ МІСЬКИЙ КРИВИЙ РІГ
 https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",ПЕРШИЙ ЗАКАРПАТСЬКИЙ
+http://91.226.35.134:8081/PK
