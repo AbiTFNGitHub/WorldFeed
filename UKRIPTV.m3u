@@ -15,6 +15,8 @@ http://stream.mcquack.net/382/index.m3u8
 http://stream.mcquack.net/219/index.m3u8
 #EXTINF:-1 tvg-id="2+2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1280px-2%2B2_logo_2017.svg.png" group-title="",2+2
 http://217.154.10.99:2020/channel/6db8a0af/index.m3u8?q=618051a4e8fb85be64d971b12222208c
+#EXTINF:-1 tvg-id="CTB" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/STB_logo.svg/960px-STB_logo.svg.png" group-title="",CTB
+http://stream.mcquack.net/156/index.m3u8
 #EXTINF:-1 tvg-id="HTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/1280px-NTNUA_logo_%282013%29.svg.png" group-title="",HTH
 http://87.98.157.77/stream/83K27DP6PU/326.m3u8
 #EXTINF:-1 tvg-id="NOVYKANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Novyi_kanal.svg/1280px-Novyi_kanal.svg.png" group-title="",НОВИЙ КАНАЛ
