@@ -41,6 +41,8 @@ http://206.212.244.47:8080/57871933/35557395/56410
 http://206.212.244.47:8080/meWDR3/510791/56410
 #EXTINF:-1 tvg-id="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",TLMDMIA
 http://206.212.244.47:8080/1yNyea/123956/56410
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="",RCN(BOG|COL)
+http://67.220.71.35:8880/@eder@zamora/axRLmPZgKyeA/318384
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
 http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
@@ -81,10 +83,6 @@ http://stream.mcquack.net/444/index.m3u8
 http://206.212.244.47:8080/DRIPTV0021/TDi6gVVnTs/47281
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
 http://206.212.244.47:8080/garypeters280@gmail.com/garypeters280@2024/47281
-#EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
-http://51.81.106.100:25461/rodneys3888/3888/10397
-#EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
-http://51.81.106.100:25461/rodneys3888/3888/31182
 #EXTINF:-1 tvg-id="TVRAIN.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tvrain-slashes.svg/960px-Tvrain-slashes.svg.png" group-title="",TVRAIN.TV
 http://93.113.203.191/iptv/2VLF3G39GK7LBH/20083/index.m3u8
 #EXTINF:-1 tvg-id="BBCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BBC_News_2022_%28Alt_2%29.svg/330px-BBC_News_2022_%28Alt_2%29.svg.png" group-title="",BBCNEWS
