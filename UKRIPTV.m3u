@@ -53,6 +53,8 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 http://87.98.157.77/stream/83K27DP6PU/329.m3u8
 #EXTINF:-1 tvg-id="UEMUSIC" tvg-logo="" group-title="",UEMUSIC
 http://stream.mcquack.net/261/index.m3u8
+#EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",Ternopil 1
+http://185.53.79.29/ternopil1/index.m3u8
 #EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",ПЕРШИЙ МІСЬКИЙ КРИВИЙ РІГ
 https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",ПЕРШИЙ ЗАКАРПАТСЬКИЙ
