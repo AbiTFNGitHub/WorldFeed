@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+LIGA
+http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31853/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+CHAMPIONS
+http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31842/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+CHAMPIONS2
+http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31860/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+DEPORTES
+http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31830/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT
+http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/6098/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT2
+http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/6099/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",DAZNF1
+http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31834/index.m3u8
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",TVSKYIT
+http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/19133/index.m3u8
