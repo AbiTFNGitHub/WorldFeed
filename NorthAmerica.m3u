@@ -30,28 +30,10 @@ http://67.220.71.35:8880/@eder@zamora/axRLmPZgKyeA/318384
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
 http://93.113.203.191/iptv/8KSD5KFDXA6H88/30076/index.m3u8
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
-http://93.113.203.191/iptv/8KSD5KFDXA6H88/30076/index.m3u8
-#EXTINF:-1 tvg-id="TVRAIN" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="",TVRAIN.TV
-http://93.113.203.191/iptv/KD6YT2WWZRCKHB/20083/index.m3u8
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
-http://93.113.203.191/iptv/Q3DW57VGFFQMKZ/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
-http://93.113.203.191/iptv/8KSD5KFDXA6H88/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
-http://93.113.203.191/iptv/AVNFCNQBEC9VQU/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
-http://93.113.203.191/iptv/S8VNGCFUZYYPDT/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
-http://93.113.203.191/iptv/KVYY3LCALLTXGT/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
-http://93.113.203.191/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
-http://93.113.203.191/iptv/2VLF3G39GK7LBH/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
-http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
-http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVR1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/TVR_1_Logo_2022.svg/960px-TVR_1_Logo_2022.svg.png" group-title="",TVR1
-http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/6998/index.m3u8
-#EXTINF:-1 tvg-id="Moldova1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Moldova_1_2025.svg/960px-TV_Moldova_1_2025.svg.png" group-title="",Moldova1
-http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/2444/index.m3u8
+http://93.113.203.191/iptv/AVNFCNQBEC9VQU/30076/index.m3u8
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
+http://206.212.244.47:8080/lv.chavannes@yahoo/DMAWNsGs9/47281
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
+http://206.212.244.47:8080/2rH3jmrKqa/S7Fkvn54gM/1818
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
+http://206.212.244.47:8080/wcroach@xplayconsulting.com/wcroach@2024/135794
