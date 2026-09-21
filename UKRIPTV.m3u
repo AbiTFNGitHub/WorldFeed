@@ -61,3 +61,5 @@ https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
 http://91.226.35.134:8081/PK
 #EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",ITVGM
 http://109.108.92.65:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",ORBITA
+http://93.171.188.89/hls/orbita.m3u8
