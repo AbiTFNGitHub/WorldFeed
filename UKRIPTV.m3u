@@ -59,3 +59,5 @@ http://185.53.79.29/ternopil1/index.m3u8
 https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",ПЕРШИЙ ЗАКАРПАТСЬКИЙ
 http://91.226.35.134:8081/PK
+#EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",ITVGM
+http://109.108.92.65:8081/itvrv/abr/playlist.m3u8
