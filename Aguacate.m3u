@@ -15,6 +15,8 @@ http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/6099/index.m3u8
 http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31834/index.m3u8
 #EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",TVSKYIT
 http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/19133/index.m3u8
+#EXTINF:-1 tvg-id="BBC1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="",BBC1(Islas)
+http://192.142.25.117/TV-20863859894612/212220822298/199756
 #EXTINF:-1 tvg-id="TVRAIN" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="",TVRAIN.TV
 http://93.113.203.191/iptv/2VLF3G39GK7LBH/20083/index.m3u8
 #EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
