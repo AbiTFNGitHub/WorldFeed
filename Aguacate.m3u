@@ -57,6 +57,8 @@ http://217.154.10.99:2020/channel/6db8a0af/index.m3u8?q=618051a4e8fb85be64d971b1
 http://87.98.157.77/stream/83K27DP6PU/156.m3u8
 #EXTINF:-1 tvg-id="HTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/1280px-NTNUA_logo_%282013%29.svg.png" group-title="",HTH
 http://87.98.157.77/stream/83K27DP6PU/326.m3u8
+#EXTINF:-1 tvg-id="ICTV2" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/960px-ICTV_2_%282022%29.svg.png" group-title="",ICTV2
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/15235/index.m3u8
 #EXTINF:-1 tvg-id="NOVYKANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Novyi_kanal.svg/1280px-Novyi_kanal.svg.png" group-title="",НОВИЙ КАНАЛ
 http://87.98.157.77/stream/83K27DP6PU/157.m3u8
 #EXTINF:-1 tvg-id="M1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M1_%28Ukraine%29_%282001-2021%29.svg/1280px-M1_%28Ukraine%29_%282001-2021%29.svg.png" group-title="",M1
@@ -90,7 +92,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="OKE" tvg-logo="" group-title="",OKE
 http://87.98.157.77/stream/83K27DP6PU/329.m3u8
 #EXTINF:-1 tvg-id="UEMUSIC" tvg-logo="" group-title="",UEMUSIC
-http://217.154.10.99:2020
+http://93.113.203.191/iptv/2VLF3G39GK7LBH/925/index.m3u8
 #EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",Ternopil 1
 http://185.53.79.29/ternopil1/index.m3u8
 #EXTINF:-1 tvg-id="1TVODUA" tvg-logo="" group-title="",ПЕРШИЙ МІСЬКИЙ КРИВИЙ РІГ
