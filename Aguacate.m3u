@@ -74,7 +74,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 tvg-id="24KANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/1280px-24_Kanal_logo.svg.png" group-title="",24KANAL
 http://194.44.175.62/news24/livenews.m3u8
 #EXTINF:-1 tvg-id="KYIV24NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kyiv_TV_%282023%29.svg/1280px-Kyiv_TV_%282023%29.svg.png" group-title="",KYIV24NEWS
-http://93.113.203.191/iptv/2VLF3G39GK7LBH/31781/index.m3u8
+http://195.245.215.100/476/hls/7d6cd0c7b9b07175b951c0f5686affe3/115/stream.m3u8
 #EXTINF:-1 tvg-id="МТМЗапоріжжя" tvg-logo="https://storage.googleapis.com/svoi-upload/442/360076/72e18bfa-9ed1-4419-8502-b364be43545d.png" group-title="",МТМ Запоріжжя
 http://91.214.31.214/hls/live.m3u8
 #EXTINF:-1 tvg-id="TET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/1280px-TET_logo.svg.png" group-title="",TET
