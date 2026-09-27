@@ -26,7 +26,7 @@ http://206.212.244.47:8080/meWDR3/510791/56410
 #EXTINF:-1 tvg-id="TLMDMIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Telemundo_51_%282018%29.svg/1280px-Telemundo_51_%282018%29.svg.png" group-title="",TLMDMIA
 http://206.212.244.47:8080/1yNyea/123956/56410
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="",RCN(BOG|COL)
-http://67.220.71.35:8880/@eder@zamora/axRLmPZgKyeA/318384
+http://74.91.21.195:8080/play/R1SX6oGTRgLqrXP6lEEz8kvCEZhRRK1z6RMnFph7dVc/ts
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
 http://93.113.203.191/iptv/S8VNGCFUZYYPDT/30076/index.m3u8
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/3840px-Fox_News_Channel_logo.svg.png" group-title="",FOXNEWS
@@ -61,5 +61,3 @@ http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/31009/index.m3u8
 http://93.113.203.191/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/31009/index.m3u8
 #EXTINF:-1 tvg-id="NEWSMAX" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="",NEWSMAX
 http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31009/index.m3u8
-#EXTINF:-1 tvg-id="NEWSMAX" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="",NEWSMAX
-http://74.91.21.195:8080/play/R1SX6oGTRgLqrXP6lEEz8kvCEZhRRK1z6RMnFph7dVc/ts
