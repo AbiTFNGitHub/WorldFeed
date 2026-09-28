@@ -37,7 +37,7 @@ http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/7292/index.m3u8
 http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/7292/index.m3u8
 #EXTINF:-1 tvg-id="BBC1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="",BBC1(Islas)
 http://192.142.25.117/TV-20863859894612/212220822298/199756
-#EXTINF:-1 tvg-id="BBC" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="",BBCNEWSUK
+#EXTINF:-1 tvg-id="BBC" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/960px-BBC_News_2022_%28Alt%29.svg.png" group-title="",BBCNEWSUK
 http://192.142.25.117/TV-20863859894612/212220822298/200368
 #EXTINF:-1 tvg-id="itv" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/ITV1_Logo_2022.svg/960px-ITV1_Logo_2022.svg.png" group-title="",itv1
 http://93.113.203.191/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/19185/index.m3u8
