@@ -33,8 +33,6 @@ http://93.113.203.191/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/7292/index.m3u8
 http://93.113.203.191/iptv/2VLF3G39GK7LBH/7292/index.m3u8
 #EXTINF:-1 tvg-id="TVP1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1280px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="",TVP1HD
 http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/7292/index.m3u8
-#EXTINF:-1 tvg-id="TVR1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/TVR_1_Logo_2022.svg/960px-TVR_1_Logo_2022.svg.png" group-title="",TVR1
-http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/6998/index.m3u8
 #EXTINF:-1 tvg-id="BBC1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="",BBC1(Islas)
 http://192.142.25.117/TV-20863859894612/212220822298/199756
 #EXTINF:-1 tvg-id="itv" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/ITV1_Logo_2022.svg/960px-ITV1_Logo_2022.svg.png" group-title="",itv1
