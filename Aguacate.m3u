@@ -165,3 +165,7 @@ http://93.113.203.191/iptv/PVFZ87KXVB7CRKU5522SXEKT/31009/index.m3u8
 http://93.113.203.191/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/31009/index.m3u8
 #EXTINF:-1 tvg-id="NEWSMAX" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="",NEWSMAX
 http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31009/index.m3u8
+#EXTINF:-1 tvg-id="NEWSMAX" tvg-logo="" group-title="",TELEVEN
+http://74.91.21.195:8080/play/R1SX6oGTRgLqrXP6lEEz8kP_aDKauYQV4tFVGj4QmA4/ts
+#EXTINF:-1 tvg-id="NEWSMAX" tvg-logo="" group-title="",CANAL I
+https://streaming.canal-i.com/canal-i/live/primary/720.m3u8
