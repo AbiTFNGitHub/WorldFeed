@@ -35,6 +35,8 @@ http://194.44.175.62/news24/livenews.m3u8
 http://195.245.215.100/476/hls/7d6cd0c7b9b07175b951c0f5686affe3/115/stream.m3u8
 #EXTINF:-1 tvg-id="24NEWS" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/960px-Logo_5_Channel.svg.png" group-title="",5КАНАЛ
 http://195.245.215.100/476/hls/7d6cd0c7b9b07175b951c0f5686affe3/55/stream.m3u8
+#EXTINF:-1 tvg-id="24NEWS" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Pryamiy_2020.svg/1280px-Pryamiy_2020.svg.png" group-title="",ПРЯМИЙ
+http://87.98.157.77/stream/83K27DP6PU/292.m3u8
 #EXTINF:-1 tvg-id="ESPRESO" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%95%D1%81%D0%BF%D1%80%D0%B5%D1%81%D0%BE_2023.svg/960px-%D0%95%D1%81%D0%BF%D1%80%D0%B5%D1%81%D0%BE_2023.svg.png" group-title="",ESPRESO.TV
 http://195.245.215.100/476/hls/7d6cd0c7b9b07175b951c0f5686affe3/3968/stream.m3u8
 #EXTINF:-1 tvg-id="МТМЗапоріжжя" tvg-logo="https://storage.googleapis.com/svoi-upload/442/360076/72e18bfa-9ed1-4419-8502-b364be43545d.png" group-title="",МТМ Запоріжжя
