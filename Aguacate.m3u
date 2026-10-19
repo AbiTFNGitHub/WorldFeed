@@ -8,11 +8,17 @@ http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31860/index.m3u8
 #EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+DEPORTES
 http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31830/index.m3u8
 #EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT
-http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/6098/index.m3u8
+http://217.154.10.99:2020/channel/2909ed1d/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT2
-http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/6099/index.m3u8
+http://217.154.10.99:2020/channel/290a617c/index.m3u8?q=618051a4e8fb85be64d971b12222208c
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT3
+http://217.154.10.99:2020/channel/290ad5db/index.m3u8?q=618051a4e8fb85be64d971b12222208c
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT4
+http://217.154.10.99:2020/channel/290b4a3a/index.m3u8?q=618051a4e8fb85be64d971b12222208c
+#EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",C+SPORT5
+http://217.154.10.99:2020/channel/290bbe99/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",DAZNF1
-http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/31834/index.m3u8
+http://217.154.10.99:2020/channel/n75e2e4b0/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 tvg-id="C" tvg-logo="" group-title="",TVSKYIT
 http://93.113.203.191/iptv/D9FQVQDE6VFTNV7A6AAH97S3/19133/index.m3u8
 #EXTINF:-1 tvg-id="TVRAIN" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="",TVRAIN.TV
